@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "AI-Powered Code Snippet Manager",
-    period: "2025",
-    tech: ["React", "Node.js", "MongoDB", "JWT", "OpenAI API"],
-    desc: "A smart snippet manager that lets developers store, search, and auto-suggest reusable code blocks using semantic search and AI.",
+    title: "Hospital Management System",
+    period: "2024",
+    tech: ["HTML", "CSS", "MySQL", "REST APIs"],
+    desc: "Designed a hospital portal enabling 100+ patient registrations and appointment bookings in test scenarios. Improved SQL performance by 30% via optimized queries and normalization, and implemented role-based access for patients, doctors, and admins.",
     links: {
       github: "#",
       demo: "#",
